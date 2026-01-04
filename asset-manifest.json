@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sport_prised/static/css/main.202ca3c3.css",
+    "main.js": "/sport_prised/static/js/main.4eea2b39.js",
+    "static/js/453.d37bcb50.chunk.js": "/sport_prised/static/js/453.d37bcb50.chunk.js",
+    "index.html": "/sport_prised/index.html",
+    "main.202ca3c3.css.map": "/sport_prised/static/css/main.202ca3c3.css.map",
+    "main.4eea2b39.js.map": "/sport_prised/static/js/main.4eea2b39.js.map",
+    "453.d37bcb50.chunk.js.map": "/sport_prised/static/js/453.d37bcb50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.202ca3c3.css",
+    "static/js/main.4eea2b39.js"
+  ]
+}

@@ -82,8 +82,8 @@ function Task({ task, onCorrect, resetSignal }) {
           src={process.env.PUBLIC_URL + task.audio}
           alt="изображение"
           style={{
-            width: '300px',
-            height: '200px',
+            width: '320px',
+            height: '250px',
             marginBottom: '10px',
             marginLeft: '170px',
             alignContent: "center",
